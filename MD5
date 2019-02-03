@@ -1,0 +1,16 @@
+5a22ed1b620665d3325060b4334f46ff *DESCRIPTION
+c1075bb21acb48edaf4a204a01f99976 *NAMESPACE
+a03b2c65fcb65aeddb19141e3336d2f4 *NEWS.md
+7461112c40aef9e5d245cf3dd7fbff12 *R/MMeM.R
+189de11ca46d933c1b5aec50bf1add1b *R/MMeM_Henderson3.R
+2efbb991be5ee90e6fe2ad8c30804b0d *R/MMeM_reml.R
+a8457656bba97a7877a35b8d9a87ed84 *R/examples.R
+68b329da9893e34099c7d8ad5cb9c940 *R/sim_data.R
+9b4ac83ec7a0e668d5ee501400a23c17 *R/utils.R
+2053a7d9c93e1a2831c1887ac20fa4b7 *README.md
+4b44d93c4ecea8d86bccb07979b6de3e *data/simdata.rda
+7fded2346478a292a4f1809c29503df8 *man/MMeM.Rd
+0cd8b562e8c38fdc3a881db0b6e3bdec *man/MMeM_henderson3.Rd
+a2ef1291c7b8149ce1df82d2c7bc04dc *man/MMeM_reml.Rd
+bae0553e28cc825f71e4314164a5d555 *man/MMeM_terms.Rd
+14e7894566607610532d93136503d340 *man/simdata.Rd
